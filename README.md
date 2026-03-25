@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/favicon.ico" alt="Kinetic Terminal Logo" width="80" height="80">
+  <img src="public/logo.png" alt="Kinetic Terminal Logo" width="400">
   <h1 align="center">Kinetic Terminal</h1>
   <p align="center">
     <strong>Visualizing the Human Side of Source Code.</strong>
